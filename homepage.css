@@ -7,9 +7,9 @@ body {
   background-size: 100% auto;
 }
 
-.top img {
-    max-width: 100%;
-    margin: 15px 30% 5px 30%;
+.top>* h1 {
+  text-align: center;
+  color:white;
 }
 
 .nav {
